@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Start_Screen_Assets.png">
+<TextureAtlas imagePath="logoBumpin.png">
 	<!-- Created with Adobe Animate version 20.0.3.25487 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="logo bumpin0000" x="0" y="0" width="721" height="667" pivotX="-85.55" pivotY="-79.5" frameX="-18" frameY="-13" frameWidth="758" frameHeight="702"/>
