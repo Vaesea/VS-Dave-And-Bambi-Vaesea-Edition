@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"old",
+			"dave",
+			[
+				20,
+				55,
+				255
+			]
+		],
+		[
+			"times",
+			"dave",
+			[
+				20,
+				55,
+				255
+			]
+		],
+		[
+			"dimension",
+			"angrydave",
+			[
+				255,
+				160,
+				195
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Old Times",
+	"weekName": "Week 1",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

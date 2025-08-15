@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"multiple",
+			"daveandbambi",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "multiple",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Finale",
+	"weekName": "Week 3",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

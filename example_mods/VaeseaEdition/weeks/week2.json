@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"stop",
+			"bambi",
+			[
+				0,
+				215,
+				40
+			]
+		],
+		[
+			"stealing corn",
+			"bambi",
+			[
+				0,
+				215,
+				40
+			]
+		],
+		[
+			"holy",
+			"bambi",
+			[
+				0,
+				215,
+				40
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bambi",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Stop stealing corn!",
+	"weekName": "Week 2",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
