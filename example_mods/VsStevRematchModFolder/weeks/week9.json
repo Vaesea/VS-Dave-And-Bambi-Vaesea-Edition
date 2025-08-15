@@ -1,0 +1,54 @@
+{
+	"songs": [
+		[
+			"epic guitar",
+			"stevguitar",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"funny",
+			"stev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"scrapped stev fantrack",
+			"stev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"plains",
+			"stev",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "how are you seeing this",
+	"weekName": "Extra",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

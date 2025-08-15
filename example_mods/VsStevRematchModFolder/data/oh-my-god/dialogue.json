@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stev",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "i am done with this shit"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "uhhhhhhhhhhh what i cant hear you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "stev",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you know what byofriend you will fail this oen and i laugh and you cry dumbaass :3333333333333333333333333333"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "shut up"
+		}
+	]
+}
