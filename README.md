@@ -14,7 +14,7 @@ Everyone who worked on Psych Engine (Psych Engine... obviously)
 
 ## Plans
 ### V1.0
-- [ ] Old (Dave) (Week 1)
+- [x] Old (Dave) (Week 1)
 - [ ] Times (Dave) (Week 1)
 - [ ] Dimension (Dave) (Week 1)
 - [ ] Stop (Bambi) (Week 2)
