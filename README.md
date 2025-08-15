@@ -3,6 +3,8 @@ basically just dave and bambi 1.0 with different songs and in psych engine, i gu
 
 be warned, there's still vs stev rematch stuff here (that was used as a template for this repository) so if you start the game you'll start hearing chinese (not trying to be racist by saying this lol) also ALARM CLOCK. OKIE DOKIE PRINCESS. ITS'A YOUR TURN TO TYPE. ITS'A TIME FOR YOU TO TYPE! PLEASE STOP! YOU HAVEN'T SEEN THE LAST OF ME!
 
+THE DAVE AND BAMBI LOGO THAT IS HERE IS A PLACEHOLDER TO REPLACE THE VS STEV REMATCH / VS STEV LOGO THAT WAS HERE. IT WILL BE REPLACED BEFORE V1.0.
+
 ## Credits
 Vaesea (me) (Only person making the mod right now)
 
