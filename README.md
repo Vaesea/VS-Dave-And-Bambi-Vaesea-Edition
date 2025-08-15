@@ -1,64 +1,31 @@
-# VS STEV - REMATCH
-Ever wanted to go against Stev again but you're tired of playing and failing at the original songs? Well now you can go against Stev with new songs to fail at!
+# VS DAVE AND BAMBI - VAESEA EDITION
+basically just dave and bambi 1.0 with different songs and in psych engine, i guess.
+
+be warned, there's still vs stev rematch stuff here (that was used as a template for this repository) so if you start the game you'll start hearing chinese (not trying to be racist by saying this lol) also ALARM CLOCK. OKIE DOKIE PRINCESS. ITS'A YOUR TURN TO TYPE. ITS'A TIME FOR YOU TO TYPE! PLEASE STOP! YOU HAVEN'T SEEN THE LAST OF ME!
 
 ## Credits
 Vaesea (me) (Only person making the mod right now)
 
-Your Average FNF Pro (VS Stev)
+VS Dave And Bambi Team (VS Dave And Bambi... obviously)
 
-Everyone who worked on Psych Engine (Psych Engine)
+Everyone who worked on Psych Engine (Psych Engine... obviously)
 
 ## Plans
-### V1
-- [x] Greeting (Stev) (Week 1) (Made by Vaesea)
-- [x] Not Fake (Stev) (Week 1) (Made by Vaesea)
-- [x] Wow (Stev) (Week 1)
-- [x] Oh My God (Stev) (Week 1)
+### V1.0
+- [ ] Old (Dave) (Week 1)
+- [ ] Times (Dave) (Week 1)
+- [ ] Dimension (Dave) (Week 1)
+- [ ] Stop (Bambi) (Week 2)
+- [ ] Stealing Corn (Bambi) (Week 2)
+- [ ] Holy (Bambi) (Week 2)
+- [x] Multiple (Dave, Bambi) (Week 3)
+- [x] Blue (V1.2) (Dave) (Extra)
+- [ ] Backspace (V1.2) (Bambi) (Extra)
+- [ ] Dumb (Tristan) (Extra)
+- [ ] Mix (Dave, Bambi, Tristan) (Extra) (Tristan part will be from what Multiple originally was, a song that included Tristan)
 
 ### V2
-- [x] Greeting (Stev) (Week 1) (Made by Vaesea)
-- [x] Not Fake (Stev) (Week 1) (Made by Vaesea)
-- [x] Wow (Stev) (Week 1)
-- [x] Oh My God (Stev) (Week 1)
-- [x] Epic Guitar (Remake) (Stev) (Extra) (Made by Your Average FNF Pro) (Remake by Vaesea)
-- [x] Funny (Stev) (Extra)
-- [x] Plains (Stev) (Extra) (Made by Vaesea)
-
-### V2.1
-It adds 1 song named Idyllic. Opponent = Stev, Made by Vaesea, already made.
-
-### V3
-- [x] Greeting (Stev) (Week 1) (Made by Vaesea)
-- [x] Not Fake (Stev) (Week 1) (Made by Vaesea)
-- [x] Wow (Stev) (Week 1)
-- [x] Oh My God (Stev) (Week 1)
-- [ ] Goodbye (Cheating Stev) (Week 2)
-- [ ] You Can Has Death (Cheating Stev) (Week 2)
-- [ ] Annoying (Cheating Stev) (Week 2)
-- [x] Epic Guitar (Remake) (Stev) (Extra) (Made by Your Average FNF Pro) (Remake by Vaesea)
-- [x] Funny (Stev) (Extra)
-- [x] Scrapped Stev Fantrack (Stev) (Extra) (Made by Vaesea)
-- [x] Plains (Stev) (Extra) (Made by Vaesea)
-
-### V4
-- [x] Greeting (Stev) (Week 1) (Made by Vaesea)
-- [x] Not Fake (Stev) (Week 1) (Made by Vaesea)
-- [x] Wow (Stev) (Week 1)
-- [x] Oh My God (Stev) (Week 1)
-- [ ] Goodbye (Cheating Stev) (Week 2)
-- [ ] You Can Has Death (Cheating Stev) (Week 2)
-- [ ] Annoying (Cheating Stev) (Week 2)
-- [x] Epic Guitar (Remake) (Stev) (Extra) (Made by Your Average FNF Pro) (Remake by Vaesea)
-- [x] Funny (Stev) (Extra)
-- [x] Scrapped Stev Fantrack (Stev) (Extra) (Made by Vaesea)
-- [x] Plains (Stev) (Extra) (Made by Vaesea)
-- [x] Griefer (Stev) (Extra) (Made by ?????? (Probably Your Average FNF Pro)) (Updated by Vaesea)
-- [x] Ingotto (3D Stev) (Extra) (Made by Your Average FNF Pro)
-- [x] Shinsei (Bmabi) (Extra) (Made by Your Average FNF Pro) (this is the bambi on the wall)
-
-Future versions will likely be made.
-
-Fantracks that I get permission to use could also be added to these versions (except V1 as that one is already done)
-
-## Info
-Fanmade songs are welcome, and fanmade versions of the songs that haven't been made yet are welcome. Remixes are also welcome.
+Basically just adds a Tristan Week. Here are the new songs!
+- [ ] Beats (Tristan) (Week 4)
+- [ ] Gold (Golden Tristan) (Week 4)
+- [ ] TwoD (Tristan) (Week 4)
