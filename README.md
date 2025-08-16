@@ -20,11 +20,13 @@ Everyone who worked on Psych Engine (Psych Engine... obviously)
 - [ ] Stop (Bambi) (Week 2)
 - [ ] Stealing Corn (Bambi) (Week 2)
 - [ ] Holy (Bambi) (Week 2)
-- [x] Multiple (Dave, Bambi) (Week 3)
+- [x] Multithon (Dave, Bambi) (Week 3)
 - [x] Blue (V1.2) (Dave) (Extra)
 - [ ] Backspace (V1.2) (Bambi) (Extra)
 - [ ] Dumb (Tristan) (Extra)
 - [ ] Mix (Dave, Bambi, Tristan) (Extra) (Tristan part will be from what Multiple originally was, a song that included Tristan)
+- [x] Scrapped Times (Dave) (Extra) (the scrapped version of times)
+- [x] Multiple (Dave, Bambi) (Extra) (scrapped song)
 
 ### V2
 Basically just adds a Tristan Week. Here are the new songs!
