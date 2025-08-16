@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "get the FUCK out of my farm"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuckin idiot.............................."
+		}
+	]
+}

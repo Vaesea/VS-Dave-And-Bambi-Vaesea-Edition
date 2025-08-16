@@ -1,0 +1,24 @@
+{
+	"position": [
+		60,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "daveCoolPortrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "3D Portrait 0003",
+			"loop_name": "3D Portrait 0003"
+		}
+	]
+}
