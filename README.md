@@ -30,7 +30,6 @@ gamebanana links have a space in them. because i dont wanna give a notification 
 - [x] Blue (V1.2) (Dave) (Extra)
 - [ ] Backspace (V1.2) (Bambi) (Extra)
 - [ ] Dumb (Tristan) (Extra)
-- [ ] Mix (Dave, Bambi, Tristan) (Extra) (Tristan part will be from what Multiple originally was, a song that included Tristan)
 - [x] Scrapped Times (Dave) (Extra) (the scrapped version of times)
 - [x] Multiple (Dave, Bambi) (Extra) (scrapped song)
 
