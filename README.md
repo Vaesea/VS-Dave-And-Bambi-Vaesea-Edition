@@ -12,6 +12,8 @@ VS Dave And Bambi Team (VS Dave And Bambi... obviously)
 
 Everyone who worked on Psych Engine (Psych Engine... obviously)
 
+Your Average FNF Pro (Dialogue "Music" from VS Stev)
+
 https://gamebanana.com/tuts/ 17332 (Wavy Background)
 
 https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script)
