@@ -18,6 +18,8 @@ https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Ch
 
 https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
 
+https://gamebanana.com/mods/ 389219 (Kade Engine Hud) (CREDITS ICON AND STUFF WILL BE ADDED WHEN ALL THE OTHER CREDITS ARE ADDED!!!!!!!!!)
+
 gamebanana links have a space in them. because i dont wanna give a notification to the people who made the stuff.
 
 ## Plans
