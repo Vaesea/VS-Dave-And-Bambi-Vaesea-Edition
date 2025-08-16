@@ -5,7 +5,7 @@
 	],
 	"_editorMeta": {
 		"boyfriend": "bf",
-		"gf": "gf",
+		"gf": "dave",
 		"dad": "bambi-new"
 	},
 	"preload": {
@@ -18,8 +18,8 @@
 		"images/backgrounds/bambi/gm_flatgrass": 3
 	},
 	"girlfriend": [
-		400,
-		290
+		353,
+		176
 	],
 	"stageUI": "",
 	"boyfriend": [
@@ -35,34 +35,12 @@
 				1,
 				1
 			],
-			"image": "backgrounds/sky",
+			"image": "backgrounds/sky_night",
 			"flipX": false,
 			"filters": 3,
 			"color": "FFFFFF",
 			"angle": 0,
 			"name": "sky",
-			"antialiasing": true,
-			"flipY": false,
-			"scroll": [
-				0.4,
-				0.4
-			],
-			"alpha": 1,
-			"type": "sprite"
-		},
-		{
-			"x": -549,
-			"y": -232,
-			"scale": [
-				1,
-				1
-			],
-			"image": "backgrounds/bambi/sun",
-			"flipX": false,
-			"filters": 3,
-			"color": "FFFFFF",
-			"angle": 0,
-			"name": "sun",
 			"antialiasing": true,
 			"flipY": false,
 			"scroll": [
@@ -212,6 +190,24 @@
 		},
 		{
 			"type": "boyfriend"
+		},
+		{
+			"x": -860,
+			"y": -655,
+			"scale": [
+				3000,
+				2100
+			],
+			"filters": 3,
+			"color": "000000",
+			"angle": 0,
+			"name": "sprite1",
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.5,
+			"type": "square"
 		}
 	],
 	"camera_girlfriend": [
