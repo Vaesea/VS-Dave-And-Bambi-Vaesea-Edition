@@ -1,3 +1,3 @@
 Psych's mods/ folder.
 
-Includes VS Stev Rematch.
+Includes VS Dave And Bambi Vaesea Edition
