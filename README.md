@@ -12,6 +12,10 @@ VS Dave And Bambi Team (VS Dave And Bambi... obviously)
 
 Everyone who worked on Psych Engine (Psych Engine... obviously)
 
+https://gamebanana.com/tuts/ 17332 (Wavy Background)
+
+https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script)
+
 ## Plans
 ### V1.0
 - [x] Old (Dave) (Week 1)
