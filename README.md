@@ -25,7 +25,7 @@ gamebanana links have a space in them. because i dont wanna give a notification 
 - [x] Dimension (Dave) (Week 1)
 - [x] Stop (Bambi) (Week 2)
 - [x] Stealing Corn (Bambi) (Week 2)
-- [ ] Holy (Bambi) (Week 2)
+- [x] Holy (Bambi) (Week 2)
 - [ ] Multithon (Dave, Bambi) (Week 3)
 - [x] Blue (V1.2) (Dave) (Extra)
 - [ ] Backspace (V1.2) (Bambi) (Extra)
