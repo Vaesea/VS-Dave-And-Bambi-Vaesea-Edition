@@ -1,0 +1,25 @@
+{
+	"events": [
+		[
+			308869.565217392,
+			[
+				["Change Character", "gf", "bambi-gf"],
+				["Flash Camera", "1", ""],
+				["Change Character", "dad", "iconbambidave"]
+			]
+		],
+		[
+			375652.173913044,
+			[
+				["Change Character", "dad", "dave-splitathon"]
+			]
+		],
+		[
+			442434.782608696,
+			[
+				["Change Character", "dad", "iconbambidave"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
