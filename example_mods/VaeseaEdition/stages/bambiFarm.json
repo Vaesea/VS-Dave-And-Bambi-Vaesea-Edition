@@ -1,0 +1,232 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/backgrounds/bambi/Sign": 3,
+		"images/backgrounds/bambi/sun": 3,
+		"images/backgrounds/bambi/farm": 3,
+		"images/backgrounds/bambi/background": 3,
+		"images/backgrounds/bambi/foreground": 3,
+		"images/backgrounds/bambi/gm_flatgrass": 3,
+		"images/backgrounds/bambi/corn": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "bambi-new",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		770,
+		260
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		290
+	],
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": -600,
+			"y": -200,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.4,
+				0.4
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -600,
+			"y": -200,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/bambi/sun",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sun",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -600,
+			"y": -100,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/bambi/gm_flatgrass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "flatgrass",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -600,
+			"y": -75,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/bambi/background",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "hills",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -600,
+			"y": -140,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/bambi/farm",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "farmhouse",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -270,
+			"y": -5,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/bambi/corn",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "corn",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -580,
+			"y": -80,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/bambi/foreground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "foreground",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -660,
+			"y": 0,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/bambi/Sign",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sign",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		237,
+		258
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}
