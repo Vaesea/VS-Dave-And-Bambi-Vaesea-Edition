@@ -16,6 +16,8 @@ https://gamebanana.com/tuts/ 17332 (Wavy Background)
 
 https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script)
 
+https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
+
 gamebanana links have a space in them. because i dont wanna give a notification to the people who made the stuff.
 
 ## Plans
