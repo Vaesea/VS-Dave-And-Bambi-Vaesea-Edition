@@ -26,10 +26,10 @@ gamebanana links have a space in them. because i dont wanna give a notification 
 - [x] Stop (Bambi) (Week 2)
 - [x] Stealing Corn (Bambi) (Week 2)
 - [x] Holy (Bambi) (Week 2)
-- [ ] Multithon (Dave, Bambi) (Week 3)
+- [x] Multithon (Dave, Bambi) (Week 3)
 - [x] Blue (V1.2) (Dave) (Extra)
 - [x] Farm Of Corn (V3) (Bambi) (Extra)
-- [ ] Dumb (Tristan) (Extra)
+- [x] Dumb (Tristan) (Extra)
 - [x] Scrapped Times (Dave) (Extra) (the scrapped version of times)
 - [x] Multiple (Dave, Bambi) (Extra) (scrapped song)
 
