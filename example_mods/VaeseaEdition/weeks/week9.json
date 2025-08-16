@@ -1,4 +1,16 @@
 {
+	"storyName": "Extra",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"blue",
@@ -10,7 +22,7 @@
 			]
 		],
 		[
-			"backspace",
+			"farm of corn",
 			"bambi",
 			[
 				0,
@@ -26,20 +38,17 @@
 				20,
 				0
 			]
+		],
+		[
+			"scrapped times",
+			"dave",
+			[
+				40,
+				80,
+				255
+			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "Normal",
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"storyName": "Extra",
 	"weekName": "Week 9",
-	"hideStoryMode": true,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false
 }
