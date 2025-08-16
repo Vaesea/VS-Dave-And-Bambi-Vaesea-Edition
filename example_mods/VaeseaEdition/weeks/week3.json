@@ -1,7 +1,14 @@
 {
+	"storyName": "The Finale",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "multithon",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
-			"multiple",
+			"multithon",
 			"daveandbambi",
 			[
 				0,
@@ -10,18 +17,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "multiple",
-	"difficulties": "Normal",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "The Finale",
-	"weekName": "Week 3",
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 3"
 }
