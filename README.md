@@ -53,6 +53,6 @@ Adds a 1.0-ified festival week (with different songs obviously)
 
 ### V3.2
 Adds Expunged and more Extra Songs
-- [ ] Britain (Vaesea) (Extra)
+- [ ] Britain (Vaesea) (Extra) (because dave and bambi had moldy in it, why cant i add my self-insert to my fan-mod??? it's named britain because i didn't wanna name it "escape from britain")
 - [ ] WHAT (Joke Dave) (Joke)
 - [ ] Evil (Cheating Expunged) (Secret)
