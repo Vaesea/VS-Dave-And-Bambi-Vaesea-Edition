@@ -1,7 +1,7 @@
 # VS DAVE AND BAMBI - VAESEA EDITION
 basically just dave and bambi 1.0 with different songs and in psych engine, i guess.
 
-be warned, there's still vs stev rematch stuff here (that was used as a template for this repository) so if you pause a song... well... let's just say... ALARM CLOCK. OKIE DOKIE PRINCESS. ITS'A YOUR TURN TO TYPE. ITS'A TIME FOR YOU TO TYPE! PLEASE STOP! YOU HAVEN'T SEEN THE LAST OF ME!
+be warned, there's still vs stev rematch stuff here (that was used as a template for this repository)
 
 THE DAVE AND BAMBI LOGO THAT IS HERE IS A PLACEHOLDER TO REPLACE THE VS STEV REMATCH / VS STEV LOGO THAT WAS HERE. IT WILL BE REPLACED BEFORE V1.0.
 
@@ -22,7 +22,7 @@ gamebanana links have a space in them. because i dont wanna give a notification 
 ### V1.0
 - [x] Old (Dave) (Week 1)
 - [x] Times (Dave) (Week 1)
-- [x] Dimension (Dave) (Week 1)
+- [x] Dimension (3D Dave) (Week 1)
 - [x] Stop (Bambi) (Week 2)
 - [x] Stealing Corn (Bambi) (Week 2)
 - [x] Holy (Bambi) (Week 2)
@@ -33,8 +33,24 @@ gamebanana links have a space in them. because i dont wanna give a notification 
 - [x] Scrapped Times (Dave) (Extra) (the scrapped version of times)
 - [x] Multiple (Dave, Bambi) (Extra) (scrapped song)
 
-### V2
+### V2.0
 Basically just adds a Tristan Week. Here are the new songs!
 - [ ] Beats (Tristan) (Week 4)
 - [ ] Gold (Golden Tristan) (Week 4)
 - [ ] TwoD (Tristan) (Week 4)
+
+### V3.0
+Adds a 1.0-ified festival week (with different songs obviously)
+- [ ] Guitar (Bambi. No he doesn't have a guitar here he actually sings the guitar) (Week 5)
+- [ ] Cool (Tristan) (Week 5)
+- [ ] Again (3D Dave) (Week 5)
+- [ ] Sunrise (Dave) (Week 5)
+- [ ] Stars (Joke Bambi) (Week 6)
+- [ ] Bug (Joke Bambi) (Week 6)
+- [ ] Learn (Joke Bambi) (Week 6)
+
+### V3.2
+Adds Expunged and more Extra Songs
+- [ ] Britain (Vaesea) (Extra)
+- [ ] WHAT (Joke Dave) (Joke)
+- [ ] Evil (Cheating Expunged) (Secret)
