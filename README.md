@@ -1,5 +1,5 @@
 # VS DAVE AND BAMBI - VAESEA EDITION
-basically just dave and bambi 1.0 with different songs and in psych engine, i guess.
+basically just dave and bambi 1.0 with different songs and in psych engine, i guess. 
 
 be warned, there's still vs stev rematch stuff here (that was used as a template for this repository)
 
