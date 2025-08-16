@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "DaveAngry idle dance"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "DaveAngry Sing Note LEFT"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DaveAngry Sing Note DOWN"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "DaveAngry Sing Note UP"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "DaveAngry Sing Note RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/dave_angryboy",
+	"position": [-170, -80],
+	"healthicon": "angrydave",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [170, 190],
+	"sing_duration": 4,
+	"scale": 0.66,
+	"_editor_isPlayer": false
+}
