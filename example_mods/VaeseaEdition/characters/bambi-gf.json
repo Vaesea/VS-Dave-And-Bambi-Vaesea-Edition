@@ -1,50 +1,50 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 10],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
+			"offsets": [-30, 10],
 			"indices": [],
-			"name": "idle"
-		},
-		{
-			"offsets": [-30, -30],
-			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"loop": false,
+			"name": "d"
 		},
 		{
-			"offsets": [-40, 5],
-			"loop": false,
+			"offsets": [3, 12],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"loop": false,
+			"name": "r"
 		},
 		{
-			"offsets": [18, 39],
-			"loop": false,
+			"offsets": [-9, 11],
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "up"
+			"loop": false,
+			"name": "l"
 		},
 		{
-			"offsets": [20, -20],
-			"loop": false,
+			"offsets": [-10, 16],
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
+			"loop": false,
+			"name": "u"
+		},
+		{
+			"offsets": [0, 10],
 			"indices": [],
-			"name": "left"
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "i"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/bambiRemake",
-	"position": [150, 460],
+	"image": "characters/bambiSplitathon",
+	"position": [150, 400],
 	"healthicon": "bambi",
 	"flip_x": false,
 	"healthbar_colors": [255, 0, 0],
