@@ -16,7 +16,7 @@ Everyone who worked on Psych Engine (Psych Engine... obviously)
 ### V1.0
 - [x] Old (Dave) (Week 1)
 - [x] Times (Dave) (Week 1)
-- [ ] Dimension (Dave) (Week 1)
+- [x] Dimension (Dave) (Week 1)
 - [ ] Stop (Bambi) (Week 2)
 - [ ] Stealing Corn (Bambi) (Week 2)
 - [ ] Holy (Bambi) (Week 2)
