@@ -3,34 +3,29 @@
 		0,
 		0
 	],
-	"_editorMeta": {
-		"boyfriend": "bf",
-		"gf": "gf",
-		"dad": "bambi-new"
-	},
 	"preload": {
 		"images/backgrounds/bambi/Sign": 3,
-		"images/backgrounds/bambi/background": 3,
-		"images/backgrounds/bambi/farm": 3,
 		"images/backgrounds/bambi/sun": 3,
+		"images/backgrounds/bambi/farm": 3,
+		"images/backgrounds/bambi/background": 3,
 		"images/backgrounds/bambi/foreground": 3,
-		"images/backgrounds/bambi/corn": 3,
-		"images/backgrounds/bambi/gm_flatgrass": 3
+		"images/backgrounds/bambi/gm_flatgrass": 3,
+		"images/backgrounds/bambi/corn": 3
 	},
-	"girlfriend": [
-		400,
-		290
-	],
-	"stageUI": "",
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "bambi-new",
+		"gf": "gf"
+	},
 	"boyfriend": [
 		770,
 		260
 	],
-	"camera_girlfriend": [
-		0,
-		0
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		290
 	],
-	"defaultZoom": 0.9,
 	"objects": [
 		{
 			"x": -600,
@@ -55,8 +50,8 @@
 			"type": "sprite"
 		},
 		{
-			"x": -600,
-			"y": -200,
+			"x": -377,
+			"y": -30,
 			"scale": [
 				1,
 				1
@@ -143,7 +138,7 @@
 			"type": "sprite"
 		},
 		{
-			"x": -270,
+			"x": -670,
 			"y": -5,
 			"scale": [
 				1,
@@ -218,15 +213,20 @@
 			"type": "boyfriend"
 		}
 	],
-	"camera_speed": 1,
-	"directory": "week1",
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.9,
 	"opponent": [
 		237,
 		258
 	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
 	"camera_opponent": [
 		0,
 		0
-	],
-	"hide_girlfriend": false
+	]
 }
