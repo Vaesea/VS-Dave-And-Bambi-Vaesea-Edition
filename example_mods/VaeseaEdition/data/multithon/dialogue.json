@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "what the fuck bambi why did you break your phone",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "talk",
+			"text": "because i can",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi"
+		},
+		{
+			"expression": "talk",
+			"text": "anyways im here now for some reason lets rap battle 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "talk",
+			"text": "vs dave and bambi 2 when",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "what the fuck are you talking about",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "wait where the fuck is girlfriend fnf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Play SuperTux"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i agree"
+		}
+	]
+}
